@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-informational?style=flat&logo=google-maps&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/github/followers/Vishalrajbhardwaj?label=Followers&style=flat&color=2bbc8a" />
+  <a href="https://github.com/Vishalrajbhardwaj"><img src="https://img.shields.io/github/followers/Vishalrajbhardwaj?label=Followers&style=flat&color=2bbc8a" /></a>
 </p>
 
 ---

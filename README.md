@@ -37,6 +37,14 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">

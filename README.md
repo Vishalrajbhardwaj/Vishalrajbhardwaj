@@ -58,7 +58,7 @@
 ### 😄 Random Programming Joke
 
 <p align="center">
-  <img src="https://readme-jokes-five.vercel.app/api?theme=tokyonight" alt="Random Programming Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Programming Joke" />
 </p>
 
 ---

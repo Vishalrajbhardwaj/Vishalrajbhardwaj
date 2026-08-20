@@ -1,71 +1,88 @@
 <h1 align="center">Hi there, I'm Vishal 👋</h1>
 
-<h3 align="center">🎯 Building | Learning | Shipping...</h3>
+<h3 align="center">🎯 Building | Learning | Shipping....</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Open+Source+Contributor;JavaScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
 
+---
+
+### 🚀 About Me
+
+- 🌱 Currently working on — *Full-Stack Web Apps* & *Open Source Tools*
+- 🛠️ Creator of *ShareAnything* and *S.H.I.V.I.*
+- 📍 Based in Greater Noida, Uttar Pradesh, India
+- 💬 Ask me about Web Development, JavaScript, or interactive tools — always happy to chat!
+
+---
+
+### 🧰 Languages & Tools
+
+<!-- Languages & tools badges -->
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-blue?style=flat-square&logo=googlemaps" />
-  <img src="https://img.shields.io/github/followers/Vishalrajbhardwaj?label=Followers&style=flat-square&color=238636" />
+  <img src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🌱 **Currently Working On:** Full-Stack Web Apps & Open Source Tools
-- 🛠️ **Featured Projects:** *ShareAnything* & *S.H.I.V.I.*
-- 💬 **Ask Me About:** Web Development, JavaScript, React, or Interactive UI Tools
-- 🎯 **Goals:** Building impactful web applications and contributing to global open-source projects
-
----
-
-## 🧰 Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📈 Activity & Stats
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalrajbhardwaj&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishalrajbhardwaj&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
-## 🤝 Connect & Views
+### 😄 Random Programming Joke
 
 <p align="center">
-  <a href="https://github.com/Vishalrajbhardwaj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-jokes-five.vercel.app/api?theme=tokyonight" alt="Random Programming Joke" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <b>Profile Views:</b><br/>
-  <img src="https://profile-counter.glitch.me/Vishalrajbhardwaj/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalrajbhardwaj&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Vishalrajbhardwaj">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Vishalrajbhardwaj/count.svg" alt="Profile views" />
 </p>

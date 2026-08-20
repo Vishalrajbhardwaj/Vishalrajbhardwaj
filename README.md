@@ -42,7 +42,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishalrajbhardwaj&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Vishalrajbhardwaj&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">

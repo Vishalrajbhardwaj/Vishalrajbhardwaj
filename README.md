@@ -39,7 +39,7 @@
 
 ### 📈 Activity Graph
 
-<p align="center">
+<!--<p align="center">
   <object type="image/svg+xml" data="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true" style="width: 100%;">
     <style>
       svg * {
@@ -47,11 +47,11 @@
       }
     </style>
   </object>
-</p>
-
-<!--<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true&animation=false" alt="Activity Graph" />
 </p>-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true&animation=false" alt="Activity Graph" />
+</p>
 
 ---
 

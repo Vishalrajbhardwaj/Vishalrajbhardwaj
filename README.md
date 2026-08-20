@@ -40,9 +40,18 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <object type="image/svg+xml" data="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true" style="width: 100%;">
+    <style>
+      svg * {
+        animation-duration: 5s !important; 
+      }
+    </style>
+  </object>
 </p>
+
+<!--<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalrajbhardwaj&theme=react-dark&hide_border=true&animation=false" alt="Activity Graph" />
+</p>-->
 
 ---
 

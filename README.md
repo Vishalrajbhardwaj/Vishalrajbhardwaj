@@ -19,7 +19,9 @@
 
 ### 🧰 Languages & Tools
 
-<!-- Languages & tools badges -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode" alt="My Skills" />
+</p>
 
 ---
 
@@ -66,11 +68,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalrajbhardwaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalrajbhardwaj&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishalrajbhardwaj&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Vishalrajbhardwaj/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vishalrajbhardwaj&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>

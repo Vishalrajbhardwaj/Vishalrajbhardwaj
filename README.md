@@ -1,9 +1,17 @@
 <h1 align="center">Hi, I'm Vishal 👋</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light.svg">
-  <img src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark.svg" alt="Vishal — Full-Stack Developer">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_github.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light_github.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_github.svg"
+    alt="Vishal Raj Bhardwaj - Full Stack Developer">
 </picture>
 
 <h3 align="center">🎯 Building | Learning | Shipping....</h3>

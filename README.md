@@ -3,14 +3,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_github.svg">
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_animated.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light_github.svg">
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light_animated.svg">
 
   <img
-    src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_github.svg"
+    src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_animated.svg"
     alt="Vishal Raj Bhardwaj - Full Stack Developer">
 </picture>
 

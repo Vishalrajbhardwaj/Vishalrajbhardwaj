@@ -3,11 +3,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_animated.svg">
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_animated(1).svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light_animated.svg">
+    srcset="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/light_animated(1).svg">
 
   <img
     src="https://raw.githubusercontent.com/Vishalrajbhardwaj/Vishalrajbhardwaj/main/dark_animated.svg"

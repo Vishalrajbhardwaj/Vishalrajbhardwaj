@@ -38,4 +38,108 @@
   <g class="float" style="animation-delay:1.2s" font-family="monospace" font-size="11" fill="#0f172a" opacity=".6">
     <text x="1510" y="170">// keep coding_</text>
   </g>
+<defs>
+  <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="g2"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#0284c7" stop-opacity="0"/><stop offset=".5" stop-color="#0284c7" stop-opacity=".9"/><stop offset="1" stop-color="#0284c7" stop-opacity="0"/></linearGradient>
+  <linearGradient id="rainbow"><stop stop-color="#0284c7"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <style>
+    .p{animation:p 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .p2{animation:p2 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .float{animation:f 3.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .float2{animation:f2 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .spin{animation:sp 7s linear infinite;transform-box:fill-box;transform-origin:center}
+    .spinR{animation:spR 11s linear infinite;transform-box:fill-box;transform-origin:center}
+    .dash{animation:d 2.4s linear infinite}
+    .dash2{animation:d2 4s linear infinite}
+    .beam{animation:b 4.5s linear infinite}
+    .blink{animation:bl .85s steps(2,end) infinite}
+    .typing{animation:ty 2.8s steps(18,end) infinite}
+    @keyframes p{0%,100%{opacity:.18;transform:scale(.65)}50%{opacity:1;transform:scale(1.35)}}
+    @keyframes p2{0%,100%{opacity:.25;transform:scale(.9)}50%{opacity:.85;transform:scale(1.12)}}
+    @keyframes f{0%,100%{transform:translate(0,0) rotate(0)}50%{transform:translate(0,-14px) rotate(3deg)}}
+    @keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(10px,10px)}}
+    @keyframes sp{to{transform:rotate(360deg)}}
+    @keyframes spR{to{transform:rotate(-360deg)}}
+    @keyframes d{to{stroke-dashoffset:-180}}
+    @keyframes d2{to{stroke-dashoffset:220}}
+    @keyframes b{from{transform:translateX(-420px)}to{transform:translateX(1950px)}}
+    @keyframes bl{0%,45%{opacity:1}46%,100%{opacity:.05}}
+    @keyframes ty{0%{clip-path:inset(0 100% 0 0)}70%,100%{clip-path:inset(0 0 0 0)}}
+  </style>
+</defs>
+
+<!-- Moving neon beam -->
+<rect class="beam" x="-420" y="0" width="260" height="443" fill="url(#beam)" opacity=".18"/>
+
+<!-- Giant rotating HUD rings -->
+<g class="spin" fill="none" stroke="#0284c7" opacity=".25">
+  <circle cx="1580" cy="78" r="54" stroke-width="2" stroke-dasharray="5 14"/>
+  <circle cx="1580" cy="78" r="68" stroke-width="1" stroke-dasharray="2 18"/>
+</g>
+<g class="spinR" fill="none" stroke="#7c3aed" opacity=".25">
+  <circle cx="1580" cy="78" r="82" stroke-width="1" stroke-dasharray="22 12"/>
+</g>
+
+<!-- Circuit network -->
+<g fill="none" stroke="#0284c7" stroke-width="2" stroke-linecap="round" opacity=".52">
+  <path class="dash" stroke-dasharray="12 9" d="M1080 70H1190V125H1300V80H1420"/>
+  <path class="dash2" stroke-dasharray="7 13" d="M1120 335H1210V280H1325V320H1435"/>
+  <path class="dash" stroke-dasharray="5 15" d="M260 55H360V105H430"/>
+</g>
+<g fill="#0284c7" filter="url(#g)">
+  <circle class="p" cx="1190" cy="125" r="4"/><circle class="p" cx="1300" cy="80" r="4" style="animation-delay:.4s"/>
+  <circle class="p" cx="1210" cy="280" r="4" style="animation-delay:.8s"/><circle class="p" cx="1325" cy="320" r="4" style="animation-delay:1.2s"/>
+  <circle class="p" cx="360" cy="105" r="4" style="animation-delay:1.5s"/>
+</g>
+
+<!-- Floating particles -->
+<g fill="#2563eb" filter="url(#g)">
+  <circle class="p" cx="420" cy="45" r="3" style="animation-delay:.2s"/>
+  <circle class="p" cx="470" cy="370" r="3" style="animation-delay:.7s"/>
+  <circle class="p" cx="1180" cy="45" r="3" style="animation-delay:1.1s"/>
+  <circle class="p" cx="1370" cy="180" r="3" style="animation-delay:1.8s"/>
+  <circle class="p" cx="1460" cy="380" r="3" style="animation-delay:2.2s"/>
+  <circle class="p" cx="320" cy="390" r="3" style="animation-delay:1.3s"/>
+  <circle class="p" cx="1100" cy="245" r="2" style="animation-delay:2.5s"/>
+</g>
+
+<!-- Floating code symbols -->
+<g font-family="monospace" font-weight="700" filter="url(#g)">
+  <text class="float" x="1330" y="165" fill="#0284c7" font-size="22">&lt;/&gt;</text>
+  <text class="float2" x="1430" y="245" fill="#7c3aed" font-size="18">{ }</text>
+  <text class="float" x="300" y="85" fill="#2563eb" font-size="17">01</text>
+  <text class="float2" x="380" y="395" fill="#0284c7" font-size="16">JS</text>
+  <text class="float" x="1150" y="395" fill="#7c3aed" font-size="14">git push</text>
+  <text class="float2" x="1260" y="215" fill="#0f172a" opacity=".55" font-size="12">npm run build</text>
+</g>
+
+<!-- Animated cursor + terminal prompt -->
+<g font-family="monospace" font-size="12" fill="#0f172a">
+  <text class="typing" x="1260" y="185" opacity=".65">$ npm run dev_</text>
+  <rect class="blink" x="1357" y="173" width="7" height="14" rx="1" fill="#0284c7" filter="url(#g)"/>
+</g>
+
+<!-- Rotating tech orbit -->
+<g class="spinR" fill="none" stroke="url(#rainbow)" stroke-width="2" opacity=".65">
+  <ellipse cx="1460" cy="350" rx="92" ry="30" stroke-dasharray="10 12"/>
+  <ellipse cx="1460" cy="350" rx="30" ry="92" stroke-dasharray="10 12"/>
+</g>
+<g class="p" fill="#0284c7" filter="url(#g)">
+  <circle cx="1552" cy="350" r="5"/>
+</g>
+
+<!-- Scan grid -->
+<g stroke="#0284c7" opacity=".07">
+  <path d="M400 30H1750M400 70H1750M400 110H1750M400 150H1750M400 190H1750M400 230H1750M400 270H1750M400 310H1750M400 350H1750M400 390H1750"/>
+  <path d="M430 0V443M510 0V443M590 0V443M670 0V443M750 0V443M830 0V443M910 0V443M990 0V443M1070 0V443M1150 0V443M1230 0V443M1310 0V443M1390 0V443M1470 0V443M1550 0V443M1630 0V443M1710 0V443"/>
+</g>
+
+<!-- Energy line across bottom -->
+<path class="dash" d="M50 405 C250 360 340 430 520 390 S850 365 1040 400 S1370 420 1710 370" fill="none" stroke="url(#rainbow)" stroke-width="3" stroke-dasharray="22 14" filter="url(#g)"/>
+
+<!-- Neon corner brackets -->
+<g fill="none" stroke="#0284c7" stroke-width="3" filter="url(#g)" opacity=".8">
+ <path d="M20 30V15H35M1739 15H1754V30M20 413V428H35M1739 428H1754V413"/>
+</g>
 </svg>
